@@ -1,0 +1,41 @@
+# DataSet - info
+ http://archiveicsuciedu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+ Important Points
+ 1) Total No of Instances (train+test: 10299
+ 2) Total No of Attributes: 561
+ Total NA values: N/A
+
+#STEPS
+## LOADING THE DATA
+ Loading the column names
+ Loading the different type of activities
+ Load Training Data 
+ Loading Test Data
+
+## Replacing activity code in y_train, y_test by activity name
+ Selecting activities
+ Replacing activity code with activity name in y_train
+ Replacing activity code with activity name in y_test
+
+
+## MERGING THE DATA
+ Merging X_train, y_train, subject_train
+ Merging X_test, y_test, subject_test
+ Merging train and test
+
+
+
+## FILTERING THE REQUIRED COLUMNS FOR FINAL TIDY DATA
+ Selecting activity column
+ Selecting subject column
+ Selecting Mean columns
+ Selecting mean columns
+ Creating Filtered TidyData
+
+## LABELING DATA WITH DESCRIPTIVE NAMES
+
+## SUMMARIZING THE FINAL DATA
+
+## WRITING FINAL DATA
+Final Data 180 rows * 88 columns
